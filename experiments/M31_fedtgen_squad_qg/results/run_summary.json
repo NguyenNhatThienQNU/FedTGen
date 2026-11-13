@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M31_fedtgen_squad_qg",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.6901507736657204,
+    "bleu": 16.055234220054373,
+    "rouge1": 0.4618876361878287,
+    "rouge2": 0.23633459733805595,
+    "rougeL": 0.4227290976004118,
+    "bertscore_precision": 0.9248955249786377,
+    "bertscore_recall": 0.9176112413406372,
+    "bertscore_f1": 0.9210563898086548,
+    "generation_time_seconds": 942.9460898260004
+  },
+  "best_metric": 0.44790811254275803,
+  "completed_rounds": 17,
+  "total_communication_MB": 223.12759399414062,
+  "inference_latency_mean_ms": 272.67990328497035,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M31_fedtgen_squad_qg/seed_42",
+  "start_time": "2026-09-24T02:59:58Z",
+  "end_time": "2026-09-24T05:34:17Z"
+}

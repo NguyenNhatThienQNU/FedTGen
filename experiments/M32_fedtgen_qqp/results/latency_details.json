@@ -1,0 +1,18 @@
+{
+  "inference_latency_mean_ms_per_sample": 275.36051681501704,
+  "inference_latency_median_ms_per_sample": 250.2633269996295,
+  "inference_latency_p95_ms_per_sample": 442.33152974957187,
+  "inference_latency_min_ms_per_sample": 150.14089399846853,
+  "inference_latency_max_ms_per_sample": 653.7265959996148,
+  "inference_latency_std_ms_per_sample": 89.3376050796554,
+  "inference_throughput_samples_per_second": 3.6316027132959827,
+  "inference_throughput_tokens_per_second": 47.86839273478774,
+  "latency_total_time_seconds": 55.31833948699932,
+  "latency_num_samples": 200,
+  "latency_batch_size": 1,
+  "latency_warmup_batches": 10,
+  "latency_device": "cuda",
+  "latency_includes_tokenization": false,
+  "average_input_tokens": 16.985,
+  "average_generated_tokens": 13.24
+}

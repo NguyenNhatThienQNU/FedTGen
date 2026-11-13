@@ -1,0 +1,22 @@
+{
+  "raw_counts": {
+    "train": 14731,
+    "validation": 818,
+    "test": 819
+  },
+  "filtered_counts": {
+    "train": 14731,
+    "validation": 818,
+    "test": 819
+  },
+  "after_cap": {
+    "train": 14731,
+    "validation": 818,
+    "test": 819
+  },
+  "caps": {
+    "train": null,
+    "validation": null,
+    "test": null
+  }
+}

@@ -1,0 +1,2 @@
+experiment_id,seed,round,epoch,client_id,stage,timestamp,cpu_memory_MB,vram_allocated_MB,vram_reserved_MB,max_vram_allocated_MB,max_vram_reserved_MB,elapsed_time_seconds
+M03_local_lora_squad_qg,42,0,0,,none,2026-08-31T16:15:15Z,3479.3046875,0,0,0,0,0

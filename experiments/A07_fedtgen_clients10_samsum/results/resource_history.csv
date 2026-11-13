@@ -1,0 +1,5 @@
+experiment_id,seed,round,epoch,client_id,stage,timestamp,cpu_memory_MB,vram_allocated_MB,vram_reserved_MB,max_vram_allocated_MB,max_vram_reserved_MB,elapsed_time_seconds
+A07_fedtgen_clients10_samsum,42,1,,,round_end,2026-08-16T13:28:20Z,2471.8671875,699.8759765625,3944.0,3261.232421875,3944.0,955.7296993869995
+A07_fedtgen_clients10_samsum,42,2,,,round_end,2026-08-16T13:44:27Z,2475.953125,699.8759765625,3944.0,3261.232421875,3944.0,1923.0065917339998
+A07_fedtgen_clients10_samsum,42,3,,,round_end,2026-08-16T14:00:36Z,2482.109375,699.8759765625,3944.0,3261.232421875,3944.0,2891.286217926
+A07_fedtgen_clients10_samsum,42,4,,,round_end,2026-08-16T14:16:42Z,2482.88671875,699.8759765625,3944.0,3261.232421875,3944.0,3858.0426680229994

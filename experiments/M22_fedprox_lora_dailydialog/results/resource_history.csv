@@ -1,0 +1,4 @@
+experiment_id,seed,round,epoch,client_id,stage,timestamp,cpu_memory_MB,vram_allocated_MB,vram_reserved_MB,max_vram_allocated_MB,max_vram_reserved_MB,elapsed_time_seconds
+M22_fedprox_lora_dailydialog,42,1,,,round_end,2026-08-27T20:22:49Z,3186.04296875,619.04931640625,2458.0,2036.40283203125,2458.0,2527.226202926
+M22_fedprox_lora_dailydialog,42,2,,,round_end,2026-08-27T21:04:44Z,3180.14453125,619.04931640625,2460.0,2036.40283203125,2460.0,5042.132311264
+M22_fedprox_lora_dailydialog,42,3,,,round_end,2026-08-27T21:46:28Z,3185.46484375,619.04931640625,2460.0,2036.40283203125,2460.0,7546.290451535

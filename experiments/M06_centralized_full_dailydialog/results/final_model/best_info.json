@@ -1,0 +1,15 @@
+{
+  "best_epoch": 20,
+  "best_metric": 0.16039149001940659,
+  "validation_metrics": {
+    "loss": 2.1291753192562863,
+    "bleu": 2.1507190201622635,
+    "rouge1": 0.16925555574356516,
+    "rouge2": 0.056155023396326734,
+    "rougeL": 0.16039149001940659,
+    "bertscore_precision": 0.8872377872467041,
+    "bertscore_recall": 0.8715908527374268,
+    "bertscore_f1": 0.8790968656539917,
+    "generation_time_seconds": 513.571627031999
+  }
+}

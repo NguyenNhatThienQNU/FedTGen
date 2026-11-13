@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M26_scaffold_lora_dailydialog",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 2.3740894069026797,
+    "bleu": 1.1694210819057342,
+    "rouge1": 0.12594085425224794,
+    "rouge2": 0.030492757762715303,
+    "rougeL": 0.11899936135441068,
+    "bertscore_precision": 0.8827918767929077,
+    "bertscore_recall": 0.866706371307373,
+    "bertscore_f1": 0.8744224905967712,
+    "generation_time_seconds": 644.0751716569994
+  },
+  "best_metric": 0.12174784935194433,
+  "completed_rounds": 20,
+  "total_communication_MB": 525.0,
+  "inference_latency_mean_ms": 327.7354509199904,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M26_scaffold_lora_dailydialog/seed_42",
+  "start_time": "2026-09-20T15:48:46Z",
+  "end_time": "2026-09-20T16:52:34Z"
+}

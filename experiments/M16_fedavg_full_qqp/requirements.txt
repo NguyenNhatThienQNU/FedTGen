@@ -1,0 +1,17 @@
+torch
+transformers
+datasets>=2.16.0,<4.0
+peft
+accelerate
+evaluate
+sacrebleu
+rouge_score
+bert_score
+sentencepiece
+scikit-learn
+pandas
+numpy
+tqdm
+safetensors
+psutil
+pytest

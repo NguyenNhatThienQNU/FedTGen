@@ -1,0 +1,2 @@
+experiment_id,seed,latency_mode,batch_index,num_samples,batch_size,input_tokens,generated_tokens,elapsed_seconds,latency_ms_per_sample,throughput_samples_per_second,throughput_tokens_per_second,device,dtype,num_beams,max_new_tokens,includes_tokenization,is_warmup
+M03_local_lora_squad_qg,42,weighted_local,0,1000,1,221.91594173612867,14.027661025511494,335.4794360159999,320.64722599486623,3.125064169207696,43.58562934252386,cuda,bfloat16,4,64,False,False

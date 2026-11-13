@@ -1,0 +1,2 @@
+experiment_id,seed,round,client_id,method,selected,transmitted_dtype,bytes_per_parameter,upload_parameters,download_parameters,upload_bytes,download_bytes,metadata_bytes,control_variate_bytes,total_communication_bytes,total_communication_MB,cumulative_communication_MB,cumulative_communication_GB
+M11_centralized_lora_squad_qg,42,0,,centralized_lora,False,float32,4,0,0,0,0,0,0,0,0.0,0.0,0.0

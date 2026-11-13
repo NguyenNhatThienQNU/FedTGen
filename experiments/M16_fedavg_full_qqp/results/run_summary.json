@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M16_fedavg_full_qqp",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.2520255870808843,
+    "bleu": 30.9099749692529,
+    "rouge1": 0.6485704914858448,
+    "rouge2": 0.4163951598672706,
+    "rougeL": 0.6211248746056028,
+    "bertscore_precision": 0.958577036857605,
+    "bertscore_recall": 0.949967086315155,
+    "bertscore_f1": 0.9541295170783997,
+    "generation_time_seconds": 982.2196248720011
+  },
+  "best_metric": 0.62475789191584,
+  "completed_rounds": 19,
+  "total_communication_MB": 55780.8642578125,
+  "inference_latency_mean_ms": 272.30100897995726,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M16_fedavg_full_qqp/seed_42",
+  "start_time": "2026-09-22T09:22:13Z",
+  "end_time": "2026-09-22T12:41:59Z"
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M27_scaffold_lora_squad_qg",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.7044259816508502,
+    "bleu": 15.75560531585929,
+    "rouge1": 0.4578279179220629,
+    "rouge2": 0.23294733184957372,
+    "rougeL": 0.4199000328843956,
+    "bertscore_precision": 0.9246693253517151,
+    "bertscore_recall": 0.9169967174530029,
+    "bertscore_f1": 0.9206347465515137,
+    "generation_time_seconds": 944.597832332
+  },
+  "best_metric": 0.44361747259087475,
+  "completed_rounds": 20,
+  "total_communication_MB": 525.0,
+  "inference_latency_mean_ms": 263.74438314001054,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M27_scaffold_lora_squad_qg/seed_42",
+  "start_time": "2026-09-24T03:40:46Z",
+  "end_time": "2026-09-24T04:20:25Z"
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M20_fedavg_lora_qqp",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.4705648381565284,
+    "bleu": 29.45564849547513,
+    "rouge1": 0.6398259860431107,
+    "rouge2": 0.4013534220202677,
+    "rougeL": 0.6117829506039989,
+    "bertscore_precision": 0.956855058670044,
+    "bertscore_recall": 0.9486292004585266,
+    "bertscore_f1": 0.9525984525680542,
+    "generation_time_seconds": 1201.2867875909997
+  },
+  "best_metric": 0.6158355694191132,
+  "completed_rounds": 20,
+  "total_communication_MB": 262.5,
+  "inference_latency_mean_ms": 251.13851538000745,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M20_fedavg_lora_qqp/seed_42",
+  "start_time": "2026-09-23T17:32:03Z",
+  "end_time": "2026-09-23T18:19:02Z"
+}

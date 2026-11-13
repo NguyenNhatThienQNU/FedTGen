@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M05_centralized_full_samsum",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.6370931655457877,
+    "bleu": 15.795096095666091,
+    "rouge1": 0.4735926697228302,
+    "rouge2": 0.22433967872860724,
+    "rougeL": 0.3903324192018296,
+    "bertscore_precision": 0.9217606782913208,
+    "bertscore_recall": 0.9132811427116394,
+    "bertscore_f1": 0.9173214435577393,
+    "generation_time_seconds": 124.2782778589999
+  },
+  "best_metric": 0.4078790262554377,
+  "completed_rounds": 8,
+  "total_communication_MB": 0.0,
+  "inference_latency_mean_ms": 475.81603371499114,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M05_centralized_full_samsum/seed_42",
+  "start_time": "2026-08-19T15:19:29Z",
+  "end_time": "2026-08-19T17:02:00Z"
+}

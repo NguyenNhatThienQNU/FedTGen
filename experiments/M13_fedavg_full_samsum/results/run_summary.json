@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M13_fedavg_full_samsum",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.6420925589441095,
+    "bleu": 15.611576974745901,
+    "rouge1": 0.47250772506876776,
+    "rouge2": 0.2242608097331,
+    "rougeL": 0.3903730588177621,
+    "bertscore_precision": 0.9217702150344849,
+    "bertscore_recall": 0.9128889441490173,
+    "bertscore_f1": 0.9171226024627686,
+    "generation_time_seconds": 124.31828882599984
+  },
+  "best_metric": 0.40882167518912826,
+  "completed_rounds": 20,
+  "total_communication_MB": 58716.69921875,
+  "inference_latency_mean_ms": 457.82261571503113,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M13_fedavg_full_samsum/seed_42",
+  "start_time": "2026-08-21T15:58:39Z",
+  "end_time": "2026-08-21T20:09:21Z"
+}

@@ -1,0 +1,9 @@
+{
+  "protocol_version": "FedTGen_protocol_v1",
+  "seed": 42,
+  "base_config_hash": "3f37aa687b99a08f",
+  "generation_config_hash": "da6f20375300d321",
+  "preprocessing_hash": "13866401549c1299",
+  "bertscore_model_type": "roberta-large",
+  "note": "Shared protocol ensures fair comparison across all 41 experiments."
+}

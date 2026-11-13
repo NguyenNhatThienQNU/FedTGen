@@ -1,0 +1,2 @@
+experiment_id,seed,measurement_method,measurement_status,is_estimated,batch_size,input_tokens,output_tokens,forward_flops_per_sample,training_flops_per_step,estimated_total_training_flops,generation_flops_per_sample,error_message
+A03_fedtgen_rank16_samsum,42,analytical_2ND,estimated,True,8,512,128,99391078400.0,2385385881600.0,9541543526400.0,79512862720.0,

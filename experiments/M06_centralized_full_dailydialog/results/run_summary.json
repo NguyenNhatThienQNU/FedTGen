@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M06_centralized_full_dailydialog",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 2.1535620977870087,
+    "bleu": 2.0102892827394565,
+    "rouge1": 0.15962186295138606,
+    "rouge2": 0.04817826786746743,
+    "rougeL": 0.15038548007299077,
+    "bertscore_precision": 0.8862385749816895,
+    "bertscore_recall": 0.8711739182472229,
+    "bertscore_f1": 0.878401517868042,
+    "generation_time_seconds": 494.99111501900006
+  },
+  "best_metric": 0.16039149001940659,
+  "completed_rounds": 20,
+  "total_communication_MB": 0.0,
+  "inference_latency_mean_ms": 286.93501525499414,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M06_centralized_full_dailydialog/seed_42",
+  "start_time": "2026-08-31T14:50:06Z",
+  "end_time": "2026-08-31T15:00:59Z"
+}

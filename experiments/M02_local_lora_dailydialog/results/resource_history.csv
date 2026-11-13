@@ -1,0 +1,2 @@
+experiment_id,seed,round,epoch,client_id,stage,timestamp,cpu_memory_MB,vram_allocated_MB,vram_reserved_MB,max_vram_allocated_MB,max_vram_reserved_MB,elapsed_time_seconds
+M02_local_lora_dailydialog,42,0,0,,none,2026-08-19T20:13:06Z,2841.00390625,0,0,0,0,0

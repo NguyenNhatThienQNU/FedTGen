@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M03_local_lora_squad_qg",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.7480149522705262,
+    "bleu": 14.7981757116397,
+    "rouge1": 0.44134411874963064,
+    "rouge2": 0.21893995167611102,
+    "rougeL": 0.4042995424997296,
+    "bertscore_precision": 0.9229714549068571,
+    "bertscore_recall": 0.9143729538360288,
+    "bertscore_f1": 0.9184612461570498,
+    "generation_time_seconds": 962.7761406700006
+  },
+  "best_metric": 0.44415834034503926,
+  "completed_rounds": 5,
+  "total_communication_MB": 0.0,
+  "inference_latency_mean_ms": 320.64722599486623,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M03_local_lora_squad_qg/seed_42",
+  "start_time": "2026-08-31T16:14:45Z",
+  "end_time": "2026-08-31T16:15:16Z"
+}

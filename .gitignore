@@ -1,0 +1,8 @@
+*.pt
+*.bin
+*.safetensors
+*.zip
+cache/
+checkpoints/
+__pycache__/
+.ipynb_checkpoints/

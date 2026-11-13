@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M04_local_lora_qqp",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.5391988685661688,
+    "bleu": 28.834602490809246,
+    "rouge1": 0.6357707760936648,
+    "rouge2": 0.3943364558531553,
+    "rougeL": 0.607128676955971,
+    "bertscore_precision": 0.9556103775715084,
+    "bertscore_recall": 0.9484103787774242,
+    "bertscore_f1": 0.9518689063959247,
+    "generation_time_seconds": 1216.3572264269997
+  },
+  "best_metric": 0.6191843088604558,
+  "completed_rounds": 5,
+  "total_communication_MB": 0.0,
+  "inference_latency_mean_ms": 324.9950236034405,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M04_local_lora_qqp/seed_42",
+  "start_time": "2026-09-27T04:12:22Z",
+  "end_time": "2026-09-27T04:12:49Z"
+}

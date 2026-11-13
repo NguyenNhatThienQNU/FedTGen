@@ -1,0 +1,5 @@
+experiment_id,seed,round,epoch,client_id,stage,timestamp,cpu_memory_MB,vram_allocated_MB,vram_reserved_MB,max_vram_allocated_MB,max_vram_reserved_MB,elapsed_time_seconds
+M21_fedprox_lora_samsum,42,1,,,round_end,2026-08-27T17:23:01Z,2428.609375,616.30712890625,4952.0,3597.369140625,4952.0,677.2129008760003
+M21_fedprox_lora_samsum,42,2,,,round_end,2026-08-27T17:34:25Z,2438.8125,616.30712890625,4952.0,3597.369140625,4952.0,1362.4936181720004
+M21_fedprox_lora_samsum,42,3,,,round_end,2026-08-27T17:45:58Z,2453.234375,616.30712890625,4952.0,3597.369140625,4952.0,2054.766705057
+M21_fedprox_lora_samsum,42,4,,,round_end,2026-08-27T17:57:29Z,2477.37109375,616.30712890625,4952.0,3597.369140625,4952.0,2745.7563981740004

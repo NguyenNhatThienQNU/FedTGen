@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M02_local_lora_dailydialog",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 2.4599632659183706,
+    "bleu": 1.084017080923904,
+    "rouge1": 0.12320194421569974,
+    "rouge2": 0.026915027020345112,
+    "rougeL": 0.1148858061343266,
+    "bertscore_precision": 0.8809158072008223,
+    "bertscore_recall": 0.8665081126222979,
+    "bertscore_f1": 0.8734151146355298,
+    "generation_time_seconds": 636.996057414
+  },
+  "best_metric": 0.12841685153185442,
+  "completed_rounds": 5,
+  "total_communication_MB": 0.0,
+  "inference_latency_mean_ms": 384.96254108658377,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M02_local_lora_dailydialog/seed_42",
+  "start_time": "2026-08-19T15:13:40Z",
+  "end_time": "2026-08-19T20:13:06Z"
+}

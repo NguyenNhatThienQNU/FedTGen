@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M25_scaffold_lora_samsum",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.6915905602927346,
+    "bleu": 14.659675579092271,
+    "rouge1": 0.4582255982490383,
+    "rouge2": 0.21109024756790845,
+    "rougeL": 0.3760546694426948,
+    "bertscore_precision": 0.9197884202003479,
+    "bertscore_recall": 0.9104551076889038,
+    "bertscore_f1": 0.9149200320243835,
+    "generation_time_seconds": 149.78680009400023
+  },
+  "best_metric": 0.39299293125151563,
+  "completed_rounds": 6,
+  "total_communication_MB": 157.5,
+  "inference_latency_mean_ms": 477.8807813850108,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M25_scaffold_lora_samsum/seed_42",
+  "start_time": "2026-09-11T16:56:58Z",
+  "end_time": "2026-09-11T17:18:07Z"
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "A04_fedtgen_epoch3_samsum",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.6803768491282047,
+    "bleu": 14.857311158467741,
+    "rouge1": 0.4585531427530448,
+    "rouge2": 0.21424412890251976,
+    "rougeL": 0.3789154397310578,
+    "bertscore_precision": 0.9201763868331909,
+    "bertscore_recall": 0.9105172157287598,
+    "bertscore_f1": 0.9151498675346375,
+    "generation_time_seconds": 154.161535266001
+  },
+  "best_metric": 0.3974255181022853,
+  "completed_rounds": 8,
+  "total_communication_MB": 105.00244140625,
+  "inference_latency_mean_ms": 478.7057075550092,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/A04_fedtgen_epoch3_samsum/seed_42",
+  "start_time": "2026-08-19T15:07:08Z",
+  "end_time": "2026-08-19T19:20:42Z"
+}

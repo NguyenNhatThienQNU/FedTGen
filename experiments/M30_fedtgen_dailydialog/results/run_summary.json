@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M30_fedtgen_dailydialog",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 2.355491027147603,
+    "bleu": 1.2564989678691172,
+    "rouge1": 0.13199506448268122,
+    "rouge2": 0.03298608826460667,
+    "rougeL": 0.12481054162644051,
+    "bertscore_precision": 0.8843993544578552,
+    "bertscore_recall": 0.8675556778907776,
+    "bertscore_f1": 0.8756433129310608,
+    "generation_time_seconds": 631.3017096350013
+  },
+  "best_metric": 0.12672471171275446,
+  "completed_rounds": 20,
+  "total_communication_MB": 262.5030517578125,
+  "inference_latency_mean_ms": 316.7309590399236,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M30_fedtgen_dailydialog/seed_42",
+  "start_time": "2026-09-20T17:10:49Z",
+  "end_time": "2026-09-20T17:37:18Z"
+}

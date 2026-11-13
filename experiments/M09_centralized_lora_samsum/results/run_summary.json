@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M09_centralized_lora_samsum",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.6733165446994374,
+    "bleu": 15.007284351066513,
+    "rouge1": 0.46556157848777746,
+    "rouge2": 0.21984421040081975,
+    "rougeL": 0.38566097847522524,
+    "bertscore_precision": 0.9211741089820862,
+    "bertscore_recall": 0.9112598896026611,
+    "bertscore_f1": 0.9160192012786865,
+    "generation_time_seconds": 147.83053943999948
+  },
+  "best_metric": 0.3982920832552524,
+  "completed_rounds": 11,
+  "total_communication_MB": 0.0,
+  "inference_latency_mean_ms": 448.802441229991,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M09_centralized_lora_samsum/seed_42",
+  "start_time": "2026-08-19T17:37:32Z",
+  "end_time": "2026-08-19T19:46:17Z"
+}

@@ -1,0 +1,16 @@
+experiment_id,seed,round,client_id,method,selected,transmitted_dtype,bytes_per_parameter,upload_parameters,download_parameters,upload_bytes,download_bytes,metadata_bytes,control_variate_bytes,total_communication_bytes,total_communication_MB,cumulative_communication_MB,cumulative_communication_GB
+M22_fedprox_lora_dailydialog,42,1,0,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,13.125,0.0128173828125
+M22_fedprox_lora_dailydialog,42,1,1,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,13.125,0.0128173828125
+M22_fedprox_lora_dailydialog,42,1,2,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,13.125,0.0128173828125
+M22_fedprox_lora_dailydialog,42,1,3,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,13.125,0.0128173828125
+M22_fedprox_lora_dailydialog,42,1,4,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,13.125,0.0128173828125
+M22_fedprox_lora_dailydialog,42,2,0,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,26.25,0.025634765625
+M22_fedprox_lora_dailydialog,42,2,1,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,26.25,0.025634765625
+M22_fedprox_lora_dailydialog,42,2,2,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,26.25,0.025634765625
+M22_fedprox_lora_dailydialog,42,2,3,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,26.25,0.025634765625
+M22_fedprox_lora_dailydialog,42,2,4,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,26.25,0.025634765625
+M22_fedprox_lora_dailydialog,42,3,0,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,39.375,0.0384521484375
+M22_fedprox_lora_dailydialog,42,3,1,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,39.375,0.0384521484375
+M22_fedprox_lora_dailydialog,42,3,2,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,39.375,0.0384521484375
+M22_fedprox_lora_dailydialog,42,3,3,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,39.375,0.0384521484375
+M22_fedprox_lora_dailydialog,42,3,4,fedprox_lora,True,float32,4,344064,344064,1376256,1376256,0,0,2752512,2.625,39.375,0.0384521484375

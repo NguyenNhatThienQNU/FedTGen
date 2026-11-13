@@ -1,0 +1,15 @@
+{
+  "best_round": 20,
+  "best_metric": 0.46736146918038823,
+  "validation_metrics": {
+    "loss": 1.5989807703265986,
+    "bleu": 20.33798627750648,
+    "rouge1": 0.5058691091297361,
+    "rouge2": 0.2834552553955586,
+    "rougeL": 0.46736146918038823,
+    "bertscore_precision": 0.928371787071228,
+    "bertscore_recall": 0.922770082950592,
+    "bertscore_f1": 0.925384521484375,
+    "generation_time_seconds": 777.0392492640003
+  }
+}

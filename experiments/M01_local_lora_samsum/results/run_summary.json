@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M01_local_lora_samsum",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.6975720740013902,
+    "bleu": 14.816468374496862,
+    "rouge1": 0.45795843148369325,
+    "rouge2": 0.21260761095385705,
+    "rougeL": 0.3775553664071914,
+    "bertscore_precision": 0.9202851939841795,
+    "bertscore_recall": 0.9105766378479563,
+    "bertscore_f1": 0.9152236615781819,
+    "generation_time_seconds": 157.9367283449974
+  },
+  "best_metric": 0.47695691264708795,
+  "completed_rounds": 5,
+  "total_communication_MB": 0.0,
+  "inference_latency_mean_ms": 553.8213129690943,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M01_local_lora_samsum/seed_42",
+  "start_time": "2026-08-16T14:10:43Z",
+  "end_time": "2026-08-16T16:09:53Z"
+}

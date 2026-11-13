@@ -1,0 +1,22 @@
+{
+  "experiment_id": "M32_fedtgen_qqp",
+  "status": "completed",
+  "test_metrics": {
+    "loss": 1.4687611015172237,
+    "bleu": 29.447396717053252,
+    "rouge1": 0.6402920111348184,
+    "rouge2": 0.40136418900916404,
+    "rougeL": 0.6120622026103479,
+    "bertscore_precision": 0.9568961262702942,
+    "bertscore_recall": 0.9486445784568787,
+    "bertscore_f1": 0.952625572681427,
+    "generation_time_seconds": 1225.7504377410005
+  },
+  "best_metric": 0.6164627154738633,
+  "completed_rounds": 20,
+  "total_communication_MB": 262.5030517578125,
+  "inference_latency_mean_ms": 275.36051681501704,
+  "output_directory": "/content/drive/MyDrive/fedtgen_experiments/M32_fedtgen_qqp/seed_42",
+  "start_time": "2026-09-24T02:58:08Z",
+  "end_time": "2026-09-24T08:36:53Z"
+}

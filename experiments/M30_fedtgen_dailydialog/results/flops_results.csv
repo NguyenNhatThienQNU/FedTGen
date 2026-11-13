@@ -1,0 +1,2 @@
+experiment_id,seed,measurement_method,measurement_status,is_estimated,batch_size,input_tokens,output_tokens,forward_flops_per_sample,training_flops_per_step,estimated_total_training_flops,generation_flops_per_sample,error_message
+M30_fedtgen_dailydialog,42,analytical_2ND,estimated,True,8,256,64,49475338240.0,1187408117760.0,23748162355200.0,39580270592.0,
