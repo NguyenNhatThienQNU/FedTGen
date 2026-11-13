@@ -14,8 +14,6 @@ small shared probe set, and its divergence from the consensus update.
 |------|---------|
 | `experiments/` | 41 standalone experiments (32 main, 7 ablation, 2 robustness). Each folder has a self-contained `.py` script, a Colab notebook (`.ipynb`), `requirements.txt`, a `README.md`, and its `results/` (final metrics, per-round history, communication, resource and latency logs). |
 | `experiments/README.md` | Table of all experiments and how to run them. |
-| `summary/` | Combined result tables (CSV) and the scripts that build them. |
-| `analysis/` | Paired-bootstrap significance tests (`boot.py`, `boot.json`), corrected run statistics, and the scripts that produce the paper's tables and figures. |
 
 Model checkpoints, tokenizer caches, and test-set predictions are not included
 because of their size (about 44 GB); every experiment regenerates them.
